@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.57fc0405.css",
-    "main.js": "/static/js/main.1701b66d.js",
+    "main.js": "/static/js/main.e8e3beef.js",
     "static/media/image-best-gear.jpg": "/static/media/image-best-gear.28ded79e4776ecd29f87.jpg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/logo.svg": "/static/media/logo.e03974f8eeb36e51813ca6f10681acdc.svg",
@@ -14,10 +14,10 @@
     "static/media/icon-arrow-right.svg": "/static/media/icon-arrow-right.357b9db81a798d76397efa2f4ad3409f.svg",
     "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.f8a9f0cf12d419a7d18556f98d81a47e.svg",
     "main.57fc0405.css.map": "/static/css/main.57fc0405.css.map",
-    "main.1701b66d.js.map": "/static/js/main.1701b66d.js.map"
+    "main.e8e3beef.js.map": "/static/js/main.e8e3beef.js.map"
   },
   "entrypoints": [
     "static/css/main.57fc0405.css",
-    "static/js/main.1701b66d.js"
+    "static/js/main.e8e3beef.js"
   ]
 }
